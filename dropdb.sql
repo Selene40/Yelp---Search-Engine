@@ -1,0 +1,11 @@
+DROP TABLE attri_busi;
+DROP TABLE sub_busi;
+DROP TABLE main_busi;
+DROP TABLE attr_catg;
+DROP TABLE subCatg;
+DROP TABLE Review;
+DROP TABLE attribute;
+DROP TABLE mainCatg;
+DROP TABLE users;
+DROP TABLE BusinessHour;
+DROP TABLE Business;
